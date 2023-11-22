@@ -2,7 +2,8 @@
 
 ## Pong Game
 A Classic Pong game developed using turtle library in python. OOPS concepts used for better code readability.
-![screenshot](https://ibb.co/LhHNfjN)
+![screenshot](https://i.ibb.co/fGLD76D/ss-1.png)
+
 
 ### Prerequisites
 - Git
